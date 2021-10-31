@@ -1,10 +1,12 @@
-# Install
+# Restart your expo app
+
+## Install
 
 ```shell
-yarn install
+yarn add expo-restart
 ```
 
-# Usage
+## Usage
 
 ```javascript
 import { Restart } from 'expo-restart'
