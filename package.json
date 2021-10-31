@@ -11,12 +11,16 @@
     "url": "git+https://github.com/kiyohken2000/expo-restart.git"
   },
   "keywords": [
-    "expo"
+    "expo",
+    "react native"
   ],
   "author": "Toshiaki Shirakura",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kiyohken2000/expo-restart/issues"
   },
-  "homepage": "https://github.com/kiyohken2000/expo-restart#readme"
+  "homepage": "https://github.com/kiyohken2000/expo-restart#readme",
+  "dependencies": {
+    "expo-updates": "^0.10.9"
+  }
 }
