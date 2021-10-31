@@ -1,0 +1,22 @@
+{
+  "name": "expo-restart",
+  "version": "0.0.1",
+  "description": "This package restarts your expo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyohken2000/expo-restart.git"
+  },
+  "keywords": [
+    "expo"
+  ],
+  "author": "Toshiaki Shirakura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiyohken2000/expo-restart/issues"
+  },
+  "homepage": "https://github.com/kiyohken2000/expo-restart#readme"
+}
